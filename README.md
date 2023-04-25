@@ -1,4 +1,4 @@
-# vue-route-code-splitting-page-loader
+# vue-route-code-splitting-page-loader
 
 This template should help get you started developing with Vue 3 in Vite.
 
