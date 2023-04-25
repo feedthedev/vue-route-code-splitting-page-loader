@@ -2,6 +2,8 @@
 
 An example project to demonstrate how to add a Google-style page loader when code-splitting views at the route level.
 
+*Note that the page loader in the gif animation is slower than it actually is!*
+
 ![](https://github.com/Developers-Notebook/vue-route-code-splitting-page-loader/raw/main/vue-page-loader.gif)
 
 More information is coming soon!
