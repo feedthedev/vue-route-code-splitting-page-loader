@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import { useUIStore } from '@/stores/ui'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -20,3 +21,13 @@ const router = createRouter({
 })
 
 export default router
+
+router.beforeEach(() => {
+  const uiStore = useUIStore()
+  uiStore.isLoading = true
+})
+
+router.afterEach(() => {
+  const uiStore = useUIStore()
+  uiStore.isLoading = false
+})
