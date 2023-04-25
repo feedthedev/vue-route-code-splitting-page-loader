@@ -31,8 +31,8 @@ const { isLoading } = storeToRefs(uiStore);
 }
 
 .bar {
-  background-color: var(--bs-body-color);
-  height: 3px;
+  background-color: hsla(160, 100%, 37%, 1);
+  height: 5px;
   width: 100%;
 }
 
