@@ -4,7 +4,7 @@ An example project to demonstrate how to add a Google-style page loader when cod
 
 *Note that the page loader in the gif animation is slower than it actually is!*
 
-![](https://github.com/Developers-Notebook/vue-route-code-splitting-page-loader/raw/main/vue-page-loader.gif)
+![](https://github.com/feedthedev/vue-route-code-splitting-page-loader/raw/main/vue-page-loader.gif)
 
 More information is coming soon!
 
@@ -32,4 +32,4 @@ npm run build
 npm run lint
 ```
 
-For more information and an explanation, see: https://www.developers-notebook.com/development/vue-js-route-level-code-splitting-with-a-page-loader/
+For more information and an explanation, see: https://www.feedthedev.com/post/vue-js-route-level-code-splitting-with-a-page-loader/
