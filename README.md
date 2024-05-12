@@ -33,4 +33,4 @@ npm run build
 npm run lint
 ```
 
-For more information and an explanation, see: https://www.feedthedev.com/post/vue-js-route-level-code-splitting-with-a-page-loader/
+For more information and an explanation, see: https://www.feedthedev.com/2023/06/18/vue-js-route-level-code-splitting-with-a-page-loader/
